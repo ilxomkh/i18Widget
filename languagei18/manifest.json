@@ -1,0 +1,18 @@
+{
+  "name": "languagei18",
+  "label": "Languagei18",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Dev",
+  "description": "Widget to change language",
+  "translatedLocales": [
+    "en",
+    "ru",
+    "uz"
+  ],
+  "properties": {
+    "hasSettingPage": false,
+    "hasConfig": false
+  }
+}
